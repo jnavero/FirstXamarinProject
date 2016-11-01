@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIGVE-MSI</Machine>
+    <WindowsUser>Wigve</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5a9ce7f1-501d-4d28-8c2a-44f05c003838</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Wigve</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\bin\Debug\FirstProject.Phone.exe">
+      <PackagePath>FirstProject.Phone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject\bin\Debug\FirstProject.Core.dll">
+      <PackagePath>FirstProject.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\packages\MvvmCross.Binding.4.2.2\lib\wpa81\MvvmCross.Binding.dll">
+      <PackagePath>MvvmCross.Binding.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\packages\MvvmCross.Core.4.2.2\lib\wpa81\MvvmCross.Core.dll">
+      <PackagePath>MvvmCross.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\packages\MvvmCross.Binding.4.2.2\lib\wpa81\MvvmCross.Localization.dll">
+      <PackagePath>MvvmCross.Localization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\packages\MvvmCross.Platform.4.2.2\lib\wpa81\MvvmCross.Platform.dll">
+      <PackagePath>MvvmCross.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\packages\MvvmCross.Platform.4.2.2\lib\wpa81\MvvmCross.Platform.WindowsCommon.dll">
+      <PackagePath>MvvmCross.Platform.WindowsCommon.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\packages\MvvmCross.Core.4.2.2\lib\wpa81\MvvmCross.WindowsCommon.dll">
+      <PackagePath>MvvmCross.WindowsCommon.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\ToDo-MvvmCross\_ Windows Store UI.txt">
+      <PackagePath>ToDo-MvvmCross\_ Windows Store UI.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\bin\Debug\FirstProject.Phone.xr.xml">
+      <PackagePath>FirstProject.Phone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\bin\Debug\Views\FirstView.xbf">
+      <PackagePath>Views\FirstView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\bin\Debug\FirstProject.Core.dll
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\bin\Debug\FirstProject.Core.pdb
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\bin\Debug\MvvmCross.Binding.dll
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\bin\Debug\MvvmCross.Core.dll
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\bin\Debug\MvvmCross.Localization.dll
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\bin\Debug\MvvmCross.Platform.dll
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\obj\Debug\FirstProject.Core.dll
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\obj\Debug\FirstProject.Core.pdb
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\obj\Debug\FirstProject.Core.csprojResolveAssemblyReference.cache
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\obj\Debug\FirstProject.Core.dll.mdb
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\bin\Debug\FirstProject.Core.dll.mdb
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\obj\Debug\FirstProject.Core.dll.mdb
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\bin\Debug\FirstProject.Core.dll.mdb

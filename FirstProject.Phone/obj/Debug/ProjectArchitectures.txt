@@ -1,0 +1,2 @@
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject.Phone\FirstProject.Phone.csproj;neutral
+C:\GitLab\Curso Xamarin\FirstProject\FirstProject\FirstProject.Core.csproj;neutral

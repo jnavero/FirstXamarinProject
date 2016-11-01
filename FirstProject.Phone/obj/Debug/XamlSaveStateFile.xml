@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\gitlab\curso xamarin\firstproject\firstproject.phone\obj\debug\intermediatexaml\firstproject.phone.exe" HashGuid="5e461089-2ef2-8650-085d-336fbc0701cf" />
+    <ReferenceAssembly PathName="c:\gitlab\curso xamarin\firstproject\firstproject\bin\debug\firstproject.core.dll" HashGuid="b9095d98-e729-f60c-7b30-844297b96326" />
+    <ReferenceAssembly PathName="c:\gitlab\curso xamarin\firstproject\packages\mvvmcross.binding.4.2.2\lib\wpa81\mvvmcross.binding.dll" HashGuid="add6f491-ab4c-dc41-7d83-cb1dc7fc5be4" />
+    <ReferenceAssembly PathName="c:\gitlab\curso xamarin\firstproject\packages\mvvmcross.core.4.2.2\lib\wpa81\mvvmcross.core.dll" HashGuid="eb6d76fc-42d4-1e88-c0ee-a6ccf454a51d" />
+    <ReferenceAssembly PathName="c:\gitlab\curso xamarin\firstproject\packages\mvvmcross.binding.4.2.2\lib\wpa81\mvvmcross.localization.dll" HashGuid="45b8d9a9-1ce4-d2c5-b08f-ddebc76f754f" />
+    <ReferenceAssembly PathName="c:\gitlab\curso xamarin\firstproject\packages\mvvmcross.platform.4.2.2\lib\wpa81\mvvmcross.platform.dll" HashGuid="905a6456-7d01-0eb7-0ee3-9173fcea82c4" />
+    <ReferenceAssembly PathName="c:\gitlab\curso xamarin\firstproject\packages\mvvmcross.platform.4.2.2\lib\wpa81\mvvmcross.platform.windowscommon.dll" HashGuid="0d2d3742-6c74-6fa4-8128-2f7a3fda78ad" />
+    <ReferenceAssembly PathName="c:\gitlab\curso xamarin\firstproject\packages\mvvmcross.core.4.2.2\lib\wpa81\mvvmcross.windowscommon.dll" HashGuid="67493d55-766c-65f2-5c70-60a35357738f" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
